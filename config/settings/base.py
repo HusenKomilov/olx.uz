@@ -78,10 +78,13 @@ THIRD_PARTY_APPS = [
     "rest_framework.authtoken",
     "corsheaders",
     "drf_spectacular",
+    "phonenumber_field",
 ]
 
 LOCAL_APPS = [
     "users",
+    "blog",
+    "options",
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
