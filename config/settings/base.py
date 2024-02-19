@@ -83,7 +83,7 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     "users",
-    "blog",
+    "olx",
     "options",
     # Your stuff: custom apps go here
 ]
